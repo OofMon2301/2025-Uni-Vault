@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "2cee47a426653490",
+    "type": "split",
+    "children": [
+      {
+        "id": "df3e3c12bd9c26df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2c87442addd61bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.5 Counting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.5 Counting"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1e43f0d668a6d1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f9ae710986091cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03250f5633968afd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "68c421fa93896315",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18457b0ed691e9c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "85709237562c09d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2377e7f51c3aa3de",
+        "type": "tabs",
+        "dimension": 36.666666666666664,
+        "children": [
+          {
+            "id": "d00331886f4c23ef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "290906b13b28d0ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cb0cd1095e0a02be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.2 Sample Space.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.2 Sample Space"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e8ec822e918b9cc8",
+        "type": "tabs",
+        "dimension": 63.33333333333333,
+        "children": [
+          {
+            "id": "f9ee47bedb6a18ab",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d87312db5a1f6bcc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.5 Counting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.5 Counting"
+            }
+          },
+          {
+            "id": "d79a398a0427d9a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.5 Counting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.5 Counting"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "iconic:Open rulebook": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian42-brat:BRAT": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "f2c87442addd61bb",
+  "lastOpenFiles": [
+    "Attachments/Pasted image 20250430115902.png",
+    "Attachments/Pasted image 20250430115900.png",
+    "2025/STAT2003/Lectures/Lecture 1 - Events.md",
+    "2025/STAT2003/Lectures/Lectures.md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.5 Counting.md",
+    "Attachments/Pasted image 20250430114919.png",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.4 Probability.md",
+    "Axiom 2.md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.3 Events.md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.1 Random Experiments.md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.2 Sample Space.md",
+    "Attachments/Pasted image 20250429094406.png",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.3.md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 2/Chapter 2.md",
+    "2025/DECO1400/DECO1400.md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 1/Chapter 1.md",
+    "2025/STAT2003/Course Notes (Week 9)/Course Notes (Week 9).md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 2",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 1",
+    "2025/STAT2003/Course Notes (Week 9)",
+    "2025/STAT2003/Course Notes/Chapter 1",
+    "2025/DECO1400/Assignments/Website Design Brief.md",
+    "2025/DECO1400/Assignments/10 Nielsen's' Usability Heuristics.md",
+    "Attachments/Pasted image 20250415093112.png",
+    "Sitemap.md",
+    "Attachments/Pasted image 20250401084325.jpg",
+    "Attachments/02_site-map-team-whiteboard-in-orange-black-casual-corporate-style.webp",
+    "Attachments",
+    "Att.md",
+    "Attachments/Pasted image 20250401084319.jpg",
+    "2025/DECO1400/Assignments",
+    "template.md",
+    "2025/DECO1400/Hiow.md",
+    "2025/DECO1400/dfjh.md",
+    "2025/DECO1400/Lectures/shakldhfgkajshdf.md",
+    "2025/STAT2003/tsts.md",
+    "2025/DECO1400/Lectures/physic.md",
+    "Physocs.md",
+    "Physics.md",
+    "2025/DECO1400/Course Notes",
+    "2025/STAT2003/Course Notes",
+    "2025/DECO1400/Lectures",
+    "2025/STAT2003/Lectures",
+    "2025/Untitled.canvas"
+  ]
+}

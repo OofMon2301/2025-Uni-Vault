@@ -1,0 +1,61 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "2025": {
+      "color": "red",
+      "unsynced": [
+        "5a0d550a178e76c3"
+      ]
+    },
+    "2025/DECO1400": {
+      "icon": "lucide-monitor-speaker",
+      "unsynced": [
+        "5a0d550a178e76c3"
+      ],
+      "color": "green"
+    },
+    "2025/STAT2003": {
+      "icon": "math-function",
+      "unsynced": [
+        "5a0d550a178e76c3"
+      ],
+      "color": "green"
+    },
+    "2025/STAT2003/Lectures/Lecture 1 - Events.md": {
+      "icon": "math-function",
+      "color": "blue"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {
+    "graph:Open graph view": {
+      "color": "cyan",
+      "icon": "lucide-brain-circuit"
+    }
+  },
+  "fileRules": [],
+  "folderRules": []
+}

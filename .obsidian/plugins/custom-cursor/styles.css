@@ -1,0 +1,28 @@
+.custom-cursor {
+	/* Assign variables */
+	--cursor-color: white;
+	--cursor-width: 1px;
+
+	/* Assign properties */
+	background: var(--cursor-color);
+	opacity: var(--cursor-opacity);
+
+	height: var(--cursor-height);
+	max-height: calc(var(--font-ui-large) * 2);
+	width: var(--cursor-width);
+	position: absolute;
+	top: 0px;
+	left: 0px;
+
+	transform: translate(var(--cursor-x1), var(--cursor-y1));
+	pointer-events: none;
+}
+
+.cm-editor * {
+	caret-color: transparent;
+}
+/* Doesn't display when selecting text */
+body:not(:has(.cm-cursor-secondary)) .cm-editor .cm-cursor {
+	display: none !important;
+}
+

@@ -1,0 +1,66 @@
+/* Hides Ninja Cursor during selection to avoid Spanning Across Lines */
+body:has(.cm-cursor-primary) .x-cursor {
+    display: none;
+ }
+ 
+ /* If the Workspace is active and in source mode, Ninja Cursor is applied. */ 
+ body:has(.x-cursor):has(.workspace-leaf.mod-active > [data-mode="source"]) {
+  --my-cursor-color: var(--caret-color);         /* Sets color of your cursors. */  
+  --ninja-cursor-width: 1px;                     /* Sets the width of your cursors.
+    
+  /* Removes normal cursor animation if multi cursors. */
+    .cm-cursorLayer:has(.cm-cursor-secondary) {
+        animation: none !important;
+    }
+ 
+    /* Styles the Regular Cursor Caret. */
+    .cm-s-obsidian .cm-cursor,
+    .cm-s-obsidian .cm-dropCursor {
+        border-left-color: var(--my-cursor-color);   /* Sets Caret Color. */
+        border-left-width: var(--ninja-cursor-width) /* Sets Caret Width. */ 
+    }
+ 
+  /* Styles Ninja Cursor Caret. */ 
+    .x-cursor {
+        background: var(--my-cursor-color);          /* Sets Caret Color. */
+        opacity: 1;                                  /* Makes Caret Visible. */
+        width: var(--ninja-cursor-width);            /* Sets Caret Width. */
+        --cursor-height: calc(var(font-size) - 2px); /* Sets Caret Height. */
+        max-height: calc(var(--font-ui-large) * 2);  /* Caps Caret Height at 2x font size. */ 
+        top: calc(0px - var(--header-height));       /* Ensures Caret is inline with selected line. */
+        transition: all 80ms !important;             /* Sets the animation delay of the Ninja Cursor. Fast typers should use a higher delay to maintain the effect. */
+    }
+ 
+  /* Hides the Default Ninja Cursor Dashing Effect. */ 
+    .cursorWrapper .x-cursor::after {
+        display: none;
+    }
+ 
+  /* Hides Regular Cursor when Ninja Cursor Installed. */
+    .cm-editor * {
+        caret-color: transparent;
+    }
+ }
+ 
+ /* Applies the Caret Blinking Effect. */
+ .cursorWrapper .x-cursor0 {
+  animation: blink0 1s 1s both infinite;
+ }
+ .cursorWrapper .x-cursor1 {
+  animation: blink1 1s 1s both infinite;
+ }
+ /* Keyframes for the Caret Blinking Effect. */ 
+ @keyframes blink1 {
+  0%   { opacity: 1; }
+  45%  { opacity: 1; }
+  50%  { opacity: 0.3;}
+  95%  { opacity: 0; }
+  100% { opacity: 0.3; }
+ }
+ @keyframes blink0 {
+  0%   { opacity: 1; }
+  45%  { opacity: 1; }
+  50%  { opacity: 0.3;}
+  95%  { opacity: 0; }
+  100% { opacity: 0.3; }
+ }

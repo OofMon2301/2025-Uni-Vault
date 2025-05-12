@@ -1,0 +1,7 @@
+{
+  "blinkSpeed": 1.5,
+  "blinkDelay": 0,
+  "movementTime": 80,
+  "cursorWidth": 1,
+  "cursorColor": "#ffffff"
+}

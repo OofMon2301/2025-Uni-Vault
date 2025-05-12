@@ -1,0 +1,23 @@
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-blue",
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": true,
+  "typomagical-colour@@theme-variant": "ficus-ruby",
+  "typomagical-colour@@background-color-enable": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "typomagical-colour@@ss-background-color": "#EFECEC",
+  "typomagical-text@@mjx-font": "mathjax-font-typomagical",
+  "typomagical-text@@body-ligatures": true,
+  "typomagical-text@@font-default": "Spectral",
+  "typomagical-text@@ordered-lists": "circled-ol",
+  "typomagical-text@@blockquote": "blockquote-plain",
+  "typomagical-title@@font-title": "Amiri",
+  "typomagical-title@@title-weight": 650,
+  "typomagical-title@@alignment-title": "align-title-center",
+  "typomagical-title@@title-gradient": "ss-title-solid",
+  "typomagical-title@@source-mode-headings-regular": false,
+  "typomagical-text@@callout-style": "callout-border-gradient",
+  "anuppuccin-theme-settings@@anp-h1-divider": true
+}
