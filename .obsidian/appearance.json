@@ -3,5 +3,6 @@
   "textFontFamily": "",
   "interfaceFontFamily": "",
   "enabledCssSnippets": [],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": ""
 }
