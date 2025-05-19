@@ -20,5 +20,7 @@
   "typomagical-title@@source-mode-headings-regular": false,
   "typomagical-text@@callout-style": "callout-border-gradient",
   "anuppuccin-theme-settings@@anp-h1-divider": true,
-  "anuppuccin-theme-settings@@anp-editor-font-source": "Iosevka Comfy Duo"
+  "anuppuccin-theme-settings@@anp-editor-font-source": "Iosevka Comfy Duo",
+  "anuppuccin-theme-settings@@anp-status-bar-select": "anp-fixed-status-bar",
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-depth-tab-toggle"
 }
