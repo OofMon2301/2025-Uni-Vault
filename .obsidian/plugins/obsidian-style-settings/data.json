@@ -19,5 +19,6 @@
   "typomagical-title@@title-gradient": "ss-title-solid",
   "typomagical-title@@source-mode-headings-regular": false,
   "typomagical-text@@callout-style": "callout-border-gradient",
-  "anuppuccin-theme-settings@@anp-h1-divider": true
+  "anuppuccin-theme-settings@@anp-h1-divider": true,
+  "anuppuccin-theme-settings@@anp-editor-font-lp": "Georgia"
 }
