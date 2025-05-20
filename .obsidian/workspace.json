@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +209,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d00331886f4c23ef",
+  "active": "dd7ea4df524771c0",
   "lastOpenFiles": [
     "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.2 Probability Distribution.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.6 Conditional Probability and Independence.md",
