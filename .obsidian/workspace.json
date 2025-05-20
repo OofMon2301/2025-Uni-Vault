@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.2 Probability Distribution.md",
+                "file": "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.4 Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Probability Distribution"
+              "title": "1.4 Probability"
             }
           }
         ]
@@ -204,13 +204,14 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-git:Open Git source control": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "dd7ea4df524771c0",
   "lastOpenFiles": [
-    "Example 1.9.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.2 Probability Distribution.md",
+    "Example 1.9.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.1 Random Variables.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.6 Conditional Probability and Independence.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.5 Counting.md",
