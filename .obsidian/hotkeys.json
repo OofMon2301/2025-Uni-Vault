@@ -8,5 +8,24 @@
     }
   ],
   "file-explorer:new-file": [],
-  "various-complements:show-suggestions": []
+  "various-complements:show-suggestions": [],
+  "editor:open-search": [],
+  "omnisearch:show-modal-infile": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "global-search:open": []
 }
