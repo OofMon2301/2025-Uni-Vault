@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.4 Probability.md",
+                "file": "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.2 Probability Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Probability"
+              "title": "2.2 Probability Distribution"
             }
           }
         ]
@@ -210,12 +210,12 @@
   },
   "active": "dd7ea4df524771c0",
   "lastOpenFiles": [
-    "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.2 Probability Distribution.md",
     "Example 1.9.md",
-    "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.1 Random Variables.md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.2 Probability Distribution.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.6 Conditional Probability and Independence.md",
-    "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.5 Counting.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.4 Probability.md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.1 Random Variables.md",
+    "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.5 Counting.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.3 Events.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.2 Sample Space.md",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 1/1.1 Random Experiments.md",
