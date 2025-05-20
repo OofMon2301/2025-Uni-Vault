@@ -25,20 +25,23 @@
     "2025": {
       "color": "red",
       "unsynced": [
-        "5a0d550a178e76c3"
+        "5a0d550a178e76c3",
+        "675c52b159a01320"
       ]
     },
     "2025/DECO1400": {
       "icon": "lucide-monitor-speaker",
       "unsynced": [
-        "5a0d550a178e76c3"
+        "5a0d550a178e76c3",
+        "675c52b159a01320"
       ],
       "color": "green"
     },
     "2025/STAT2003": {
       "icon": "math-function",
       "unsynced": [
-        "5a0d550a178e76c3"
+        "5a0d550a178e76c3",
+        "675c52b159a01320"
       ],
       "color": "green"
     },
