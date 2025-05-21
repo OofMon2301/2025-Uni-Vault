@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df3e3c12bd9c26df",
+        "id": "5db817de12b9fd49",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c87442addd61bb",
+            "id": "91af7c5d3633258d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,6 +186,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
@@ -203,7 +204,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f2c87442addd61bb",
+  "active": "91af7c5d3633258d",
   "lastOpenFiles": [
     "Attachments/Pasted image 20250515140008.png",
     "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.3 Expectation.md",
