@@ -4,5 +4,6 @@
   "interfaceFontFamily": "Inter",
   "enabledCssSnippets": [],
   "theme": "obsidian",
-  "monospaceFontFamily": "JetBrains Mono,Gohu Gohufont"
+  "monospaceFontFamily": "JetBrains Mono,Gohu Gohufont",
+  "baseFontSize": 17
 }
