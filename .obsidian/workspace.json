@@ -11,10 +11,14 @@
             "id": "91af7c5d3633258d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025/STAT2003/Course Notes (Week 9)/Chapter 2/2.3 Expectation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2.3 Expectation"
             }
           }
         ]
